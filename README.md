@@ -93,10 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Firebase](https://firebase.google.com/)
 - [NativeWind](https://www.nativewind.dev/)
 
-## 📸 Screenshots
-
-*Add your app screenshots here*
-
 ## 🔧 Environment Variables
 
 Create a `.env` file in the root directory with your Firebase configuration:
