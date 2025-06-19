@@ -30,6 +30,9 @@
         "projectId": "e5f2f79c-8df7-4a41-aab4-49cf7af07f75"
       }
     },
-    "owner": "siddhikarwar1220"
+    "owner": "siddhikarwar1220",
+    "android": {
+      "package": "com.siddhikarwar1220.boltexponativewind"
+    }
   }
 }
